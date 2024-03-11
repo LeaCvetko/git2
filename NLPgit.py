@@ -1,0 +1,2 @@
+
+print("vaje za NLP")
